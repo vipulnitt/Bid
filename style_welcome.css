@@ -1,0 +1,74 @@
+.container{
+    border: 3px solid #ffffff;
+    background-color: rgb(212, 255, 255);
+}
+.containers{
+    border: 2px solid #0e0d0d;
+    align-items: center;
+    background-color: rgb(212, 255, 255);
+}
+.lgs{
+   display: inline-block;
+   margin-left: 1000px;
+}
+#search{
+    display: inline-flex; 
+    margin-left: 10px;
+    margin-top: 20px;
+}
+#lg{
+    background-color: #04AA6D;
+   color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+}
+.log{
+    background-color: hsl(0, 100%, 46%);
+   color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+}
+.logt{
+    background-color: hsl(106, 100%, 46%);
+   color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+}
+#logs{
+    background-color: hsl(182, 82%, 43%);
+   color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+}
+.username{
+    display: inline-block;
+    color:brown;
+    font-weight: bold;
+}
+table{
+
+    color:rgb(2, 3, 26);
+    font-weight: bold;
+    border: 2px solid #0e0d0d;
+    background-color: rgb(214, 255, 220);
+    text-align: left;
+    margin-left: 10px;
+}
+#brk{
+    background-color: black;
+}
+button[name="search"] {
+    cursor: pointer;
+    margin-left: 10px;
+  }
+select[name="SortBy"] {
+    margin-left: 20px;
+  }
+#profile{
+    background-color: #04AA6D;
+}
+
